@@ -15,4 +15,4 @@
 * `*_override.tf.json` - игнорирует все файлы с окончанием ***"_override.tf.json"***
 * `.terraformrc` - игнорирует скрытый (-ые) файл (-ы) с наименованием ***".terraformrc"***
 * `terraform.rc` - игнорирует файл (-ы) с наименованием ***"terraform.rc"***
-New line
+
